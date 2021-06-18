@@ -1,0 +1,16 @@
+image_parameters:
+  height_og: 800
+  p1:
+  - 236
+  - 280
+  p2:
+  - 260
+  - 148
+  p3:
+  - 516
+  - 259
+  p4:
+  - 489
+  - 130
+  size_frame: 800
+  width_og: 440
